@@ -27,7 +27,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yourrepository/StockPredictionImageProcessing.git
+   git clone https://github.com/rohitgulve/Stock-Prediction-using-Image-Processing-on-Time-Series-Data.git
    ```
 3. **Run the Prediction Model**
    ```
